@@ -1,0 +1,11 @@
+DATAFLOW,LAST UPDATE,freq,waste,wst_oper,unit,geo,TIME_PERIOD,OBS_VALUE,OBS_FLAG,CONF_STATUS
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2014,21.38,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2015,21.27,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2016,22.36,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2017,23.66,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2018,24.52,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2019,24.22,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2020,28.41,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2021,29.94,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2022,28.94,,
+ESTAT:ENV_WASPAC(1.0),11/05/26 23:00:00,Annual,Plastic packaging,Waste generated,Kilograms per capita,Finland,2023,28.49,,
