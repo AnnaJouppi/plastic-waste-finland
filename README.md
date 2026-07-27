@@ -13,6 +13,16 @@ Visualization:
 Prediction:
  * Uses a Linear Regression model (sklearn) to predict waste generation for 2024, 2025, and 2026.
 
+## Visualization & Key Findings
+
+![Plastic Packaging Waste Prediction](final_image.png)
+
+### Key Findings
+* **2023 Actual Level:** 28.49 kg per person
+* **2026 Predicted Level:** 31.55 kg per person
+* **Forecasted Growth (2023–2026):** Plastic packaging waste per capita in Finland is predicted to grow by **+10.74%** (+3.06 kg per person) by 2026 if historical trends continue.
+* **Methodology Note:** The model excludes the COVID-19 pandemic years (2020–2021) to prevent short-term e-commerce and takeaway consumption anomalies from skewing long-term linear trends.
+
 ## Data Source & Scope
 * **Source:** Eurostat (`env_waspac` - Packaging waste by waste management operations)
 * **Scope:** Total packaging waste generated per capita (kg/person) in Finland across all packaging materials (paper/cardboard, glass, plastic, metal, and wood).
